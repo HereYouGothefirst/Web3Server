@@ -1,0 +1,27 @@
+{
+  "name": "web3api",
+  "version": "1.0.0",
+  "description": "Web3 api service",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "dev": "nodemon server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/HereYouGothefirst/Web3Server.git"
+  },
+  "author": "inter074@gmail.com",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/HereYouGothefirst/Web3Server/issues"
+  },
+  "homepage": "https://github.com/HereYouGothefirst/Web3Server#readme",
+  "dependencies": {
+    "express": "^4.16.3", 
+    "web3": "^0.18.3"
+  },
+  "devDependencies": {
+    "nodemon": "^1.18.4"
+  }
+}
