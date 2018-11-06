@@ -9,12 +9,12 @@
 `    
 If geth run on other server change localhost into 
 `
- [gethConfig](https://github.com/inter074/Web3Api/blob/master/config/gethConfig.js)
+ [gethConfig](https://github.com/HereYouGothefirst/Web3Server/blob/master/config/gethConfig.js)
 
 
 
 ### 2. Clone web3api from github.
-`git clone https://github.com/inter074/Web3Api`
+`git clone https://github.com/HereYouGothefirst/Web3Server`
 
 
 ### 3. Go to the folder with this app 
@@ -24,7 +24,7 @@ If geth run on other server change localhost into
   >Go to `cd src/`
   Run `node server.js`
   
-  *If all goes well, the console displays a message* `Up on port:9000`
+  *If all goes well, the console displays a message* `Listening on port:<your-port(default is 9000)>`
   
   
   
